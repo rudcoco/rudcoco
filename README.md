@@ -6,5 +6,4 @@
 <!-- Greeting Section -->
 <h2 align="left"> ʕ ˵• o •˵ ʔ </h2>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5BA9E3&width=435&lines=AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=91DEE3&width=435&lines=AI%EA%92%B0+%E2%80%A2+%CB%95+%E2%80%A2+%EA%92%B1)](https://git.io/typing-svg)
